@@ -26,7 +26,7 @@ wavesurfer.init({
 
 
 //загружаем нужную песню
-wavesurfer.load("vamp.mp3");
+wavesurfer.load("sonata3.mp3");
 
 //play and pause a player
 playPause.addEventListener("click", function (e) {

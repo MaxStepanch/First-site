@@ -104,6 +104,8 @@ header{
 
 .card-info-img{
     display: flex;
+    max-width: 400px;
+    max-height: 500px;
 }
 
 .info-title{
@@ -138,6 +140,7 @@ header{
     color: #d1d1d1;
     max-width: 240px;
     line-height: 1.8;
+    letter-spacing: 0.4px;
 }
 
 .audio-holder{
@@ -382,7 +385,7 @@ margin: 0;
 }
 
 .img-card-1{
-    background-image: url(img/card-1.png);
+    background-image: url(photogpraphy.jpg);
 }
 
 .btn-time{
@@ -431,4 +434,9 @@ margin: 0;
 
 .img-card-2{
     background-image: url(img/card-2.png);
+}
+
+.bethowen{
+    max-width: 200px;
+    max-width: 200px;
 }
