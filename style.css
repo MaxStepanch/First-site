@@ -26,7 +26,7 @@ header{
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: #FFF;
+    background-color: #cbd629;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -201,7 +201,7 @@ header{
 }
 
 footer{
-    background-color: #f5f5f8;
+    background-color: #d7d7db;
     padding: 60px 0;
 }
 
